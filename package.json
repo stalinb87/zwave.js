@@ -1,0 +1,10 @@
+{
+  "name": "zwavejs",
+  "description": "a zwave library for manage zwave devices",
+  "version": "0.0.1",
+  "author": "Stali Bonilla",
+  "private": false,
+  "dependencies": {
+    "serialport": "~1.0.8"
+  }
+}
