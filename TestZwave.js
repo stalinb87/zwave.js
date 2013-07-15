@@ -1,7 +1,7 @@
 var Zwave = require('./lib/Zwave.js');
 function main(){
 	var zwave = new Zwave();
-	zwave.open("/dev/ttyUSB0",false,function(){
+	zwave.open("/dev/ttyUSB5",false,function(){
 	var encender =false;
 	/*setInterval(function(){
 		if(encender){
@@ -11,8 +11,8 @@ function main(){
 		}
 		encender=!encender;
 	},500);*/
-	
-		zwave.swichOn(2);
+
+		zwave.swichOff(2);
 		/*zwave.swichOff(2);
 		zwave.swichOn(2);
 		zwave.swichOff(2);
