@@ -11,4 +11,4 @@ For learn about the zwave protocol see the following links
 - [Understanding Z-Wave Networks, Nodes & Devices](http://www.vesternet.com/resources/technology-indepth/understanding-z-wave-networks)
 - [Z-Wave Node Type Overview and Network Installation Guide](http://zwave-products.co.uk/online/templatemedia/all_lang/resources/Z-Wave+Node+Type+Overview+and+Network+Installation+Guide.pdf)
 
-
+For MACs users is necessary to install the following drivers [drivers](http://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) the port will appear like /dev/tty.SLAB_USBtoUART
