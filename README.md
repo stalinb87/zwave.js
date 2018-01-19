@@ -1,5 +1,6 @@
 zwave.js
 ========
+DEPRECATED: this library has been deprecated in favor of [https://github.com/OpenZWave/node-openzwave-shared](node-openzwave)
 
 An abstraction library for manage zwave device
 
